@@ -2,7 +2,7 @@
 
 ## Overview
 
-The CARE formulti-task: [Multi-Task Reinforcement Learning with Context-based Representations](https://arxiv.org/pdf/2102.06177.pdf)
+The CARE for multi-task: [Multi-Task Reinforcement Learning with Context-based Representations](https://arxiv.org/pdf/2102.06177.pdf)
 The SAC for multi-agent: [Soft actor-critic algorithms and applications](https://arxiv.org/pdf/1812.05905.pdf)
 
 
